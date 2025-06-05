@@ -1,7 +1,7 @@
 package com.example.domain;
 
 /**
- * 車を表すぜ.
+ * Carドメイン.
  */
 public class Car {
     private int speed;
